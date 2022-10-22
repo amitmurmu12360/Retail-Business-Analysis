@@ -50,6 +50,7 @@ Calculate the following time measures:
 
 4.	Use the measures and calculations to assemble a sales reports with different visuals to best show the Sales Insights in one page Dashboard. Feel free to use your imagination to best represent the data you have available.
 If you plot Month on x-axis, make sure the months are sorted from Jan-Dec.
-
-
-
+#WHAT I DID -
+you can check my report that i have created
+feel free to collaborate or help me building this project
+#THANKYOU!!
